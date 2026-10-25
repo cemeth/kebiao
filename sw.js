@@ -1,5 +1,5 @@
 /* 单双周课表 · 离线缓存（锁屏页） */
-const CACHE = 'kebiao-ba9190105adb';
+const CACHE = 'kebiao-6eaed9022d57';
 const ASSETS = [
   './',
   './index.html',
